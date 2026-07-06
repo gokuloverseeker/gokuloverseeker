@@ -1,0 +1,61 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Gokul Over Seeker maximum effort profile banner</title>
+  <desc id="desc">A professional red and black profile banner inspired by comic antihero styling.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050608"/>
+      <stop offset="0.46" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#19070a"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff4d4d"/>
+      <stop offset="0.45" stop-color="#e23636"/>
+      <stop offset="1" stop-color="#7f1d1d"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <path d="M0 310 L1200 92 L1200 360 L0 360 Z" fill="#0f172a" opacity="0.72"/>
+  <path d="M0 63 L431 0 H760 L0 196 Z" fill="url(#red)" opacity="0.9"/>
+  <path d="M1200 0 L812 0 L1200 205 Z" fill="#e23636" opacity="0.82"/>
+  <path d="M110 335 L1040 125" stroke="#e23636" stroke-width="3" opacity="0.45"/>
+  <path d="M162 355 L1120 142" stroke="#f87171" stroke-width="1.5" opacity="0.35"/>
+
+  <g transform="translate(815 70)" filter="url(#softShadow)">
+    <circle cx="135" cy="105" r="103" fill="#e23636"/>
+    <path d="M63 32 C26 73 24 143 63 181 C91 208 179 209 207 181 C246 143 244 73 207 32 C174 0 96 0 63 32 Z" fill="#111827"/>
+    <path d="M85 100 C109 72 139 71 157 94 C135 112 107 117 85 100 Z" fill="#f8fafc"/>
+    <path d="M185 100 C161 72 131 71 113 94 C135 112 163 117 185 100 Z" fill="#f8fafc"/>
+    <path d="M132 25 L132 190" stroke="#e23636" stroke-width="7" opacity="0.92"/>
+    <circle cx="135" cy="105" r="108" fill="none" stroke="#f87171" stroke-width="5" opacity="0.85"/>
+  </g>
+
+  <g transform="translate(70 92)">
+    <text x="0" y="0" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="0">
+      GOKUL OVER SEEKER
+    </text>
+    <text x="0" y="72" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="0">
+      Maximum Effort Mode
+    </text>
+    <text x="2" y="128" fill="#cbd5e1" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="500" letter-spacing="0">
+      Learning. Building. Shipping. Repeat.
+    </text>
+    <g transform="translate(0 166)">
+      <rect x="0" y="0" width="168" height="38" rx="8" fill="#e23636"/>
+      <text x="24" y="25" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0">
+        JUST LEARNER
+      </text>
+      <rect x="184" y="0" width="188" height="38" rx="8" fill="#111827" stroke="#e23636" stroke-width="2"/>
+      <text x="207" y="25" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0">
+        CODE CHALLENGES
+      </text>
+      <rect x="390" y="0" width="164" height="38" rx="8" fill="#111827" stroke="#e23636" stroke-width="2"/>
+      <text x="416" y="25" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0">
+        GITHUB ACTIONS
+      </text>
+    </g>
+  </g>
+</svg>
