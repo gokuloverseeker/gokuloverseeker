@@ -92,17 +92,17 @@ I am interested in learning, building, and improving one challenge at a time. I 
 
 <br clear="right" />
 
-## GitHub Overview
+## GitHub Journey
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Open%20Source-Learner-E23636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀-Learning%20Publicly-E23636?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-Web%20Development-0D1117?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻-Building%20Projects-0D1117?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LeetCode-over__seeker-E23636?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/🧠-Problem%20Solver-E23636?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/GitHub-gokuloverseeker-0D1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/⚡-Maximum%20Effort-0D1117?style=for-the-badge"/>
 
 </p>
 
