@@ -92,12 +92,20 @@ I am interested in learning, building, and improving one challenge at a time. I 
 
 <br clear="right" />
 
-## GitHub Stats
+## GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokuloverseeker&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=E23636&icon_color=E23636&text_color=F8FAFC&bg_color=0D1117" alt="GitHub Stats for gokuloverseeker" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokuloverseeker&layout=compact&hide_border=true&title_color=E23636&text_color=F8FAFC&bg_color=0D1117" alt="Top languages for gokuloverseeker" width="49%" />
+
+<img src="https://img.shields.io/badge/🚀-Learning%20Publicly-E23636?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/💻-Building%20Projects-0D1117?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🧠-Problem%20Solver-E23636?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/⚡-Maximum%20Effort-0D1117?style=for-the-badge"/>
+
 </p>
+
 
 <p align="center">
   <a href="https://git.io/streak-stats">
